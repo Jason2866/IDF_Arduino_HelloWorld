@@ -1,0 +1,6 @@
+esp-idf: 443_dev 9919c01b1d
+arduino: work 3a78ae96
+esp-dsp: master 59a37ea
+esp32-camera: 8575d75
+esp_littlefs: master 485a037
+tinyusb: master b624664f5
